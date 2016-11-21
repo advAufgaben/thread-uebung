@@ -1,4 +1,4 @@
-package main;
+package anomalie;
 
 /*
  * Warum ist der Endstand nicht immer 10.000?

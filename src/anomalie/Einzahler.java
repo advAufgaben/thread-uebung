@@ -1,4 +1,4 @@
-package main;
+package anomalie;
 
 public class Einzahler implements Runnable{
 
